@@ -10,7 +10,7 @@ Add it in your root build.gradle at the end of repositories:
 			maven { url 'https://jitpack.io' }
 		}
 	}
-Step 2. Add the dependency
+Step 2. Add the dependency  [![](https://jitpack.io/v/classichu/ClassicPercentLayout.svg)](https://jitpack.io/#classichu/ClassicPercentLayout)
 
 	dependencies {
 	        compile 'com.github.classichu:ClassicPercentLayout:x.x.x'
